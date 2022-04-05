@@ -11,7 +11,7 @@ const ReviewCard = (props) => {
 
         <div className='flex justify-center items-center my-5'>
             <div class="p-6 w-full">
-                <div class="p-6 rounded-lg shadow-lg bg-pink-100">
+                <div class="p-6 rounded-lg shadow-lg bg-blue-100">
                     <h2 class="text-xl font-bold mb-2 text-gray-800">{name}</h2>
                     <p class="text-gray-700">{about}</p>
                     <div className="flex justify-start mt-4">
