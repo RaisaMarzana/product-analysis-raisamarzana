@@ -12,7 +12,7 @@ const Home = () => {
             <div className='flex items-center justify-center'>
                 <div>
                     <h1 className='text-6xl font-bold '>New <span className='text-pink-600'>Headphones</span></h1>
-                    <h1 className='text-6xl font-bold text-blue-500'><span>Future of Sounds</span></h1>
+                    <h1 className='text-6xl font-bold text-blue-500'><span>Future of Headphones</span></h1>
                     <p className='my-5 w-96'>Headphones are a pair of small loudspeaker drivers worn on or around the head over a user's ears. They are electroacoustic transducers, which convert an electrical signal to a corresponding sound.</p>
                 </div>
                 <div className='h-2/4 w-2/4'>
